@@ -1,0 +1,7 @@
+{
+  "name": "Aurelia - Mediterranean Coastal Dining",
+  "description": "A high-end, full-featured restaurant website for Aurelia, an upscale Mediterranean coastal restaurant in Charleston, featuring visual storytelling, seamless UX, and conversion-focused design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
